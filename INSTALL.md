@@ -1,17 +1,19 @@
-### [X](http://link-to-x.com)
+### [Unreal Engine 5](https://www.unrealengine.com/en-US/unreal-engine-5)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/dracula/template.git
+    git clone https://github.com/jaiden-d/dracula-ue5.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/template/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/jaiden-d/dracula-ue5/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Navigate to your Unreal Engine 5 installation folder
+2. Navigate to `Engine/Content/Slate/Themes`.
+3. Copy the `Dracula.json` file to the `Themes` folder.
+4. Open the editor preferences window under `Edit > Editor Preferences`.
+5. Under the `Active Theme` dropdown, select `Dracula`.

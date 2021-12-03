@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [github.com/jaiden-d/dracula-ue4](https://github.com/jaiden-d/dracula-ue4).
 
 ## Team
 
