@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [github.com/jaiden-d/dracula-ue4](https://github.com/jaiden-d/dracula-ue4).
+All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 ## Team
 
