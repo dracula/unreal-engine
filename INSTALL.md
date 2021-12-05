@@ -4,11 +4,11 @@
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    git clone https://github.com/jaiden-d/dracula-ue5.git
+    git clone https://github.com/dracula/unreal-engine.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/jaiden-d/dracula-ue5/archive/master.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/dracula/unreal-engine/archive/master.zip) option and unzip them.
 
 #### Activating theme
 
