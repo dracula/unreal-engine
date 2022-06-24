@@ -12,7 +12,7 @@ All instructions can be found at [draculatheme.com/unreal-engine](https://dracul
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/unreal-engine/graphs/contributors).
 
-| [![Jaiden](https://github.com/jaiden-d.png?size=100)](https://github.com/jaaiden)  |
+| [![Jaiden](https://github.com/jaaiden.png?size=100)](https://github.com/jaaiden)   |
 | ---------------------------------------------------------------------------------- |
 | [Jaiden](https://github.com/jaaiden)                                               |
 
