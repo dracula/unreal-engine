@@ -12,7 +12,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/unreal-engi
 
 #### Activating theme
 
-1. Navigate to your Unreal Engine 5 installation folder
+1. Navigate to your Unreal Engine 5 installation folder.
 2. Navigate to `Engine/Content/Slate/Themes`.
 3. Copy the `Dracula.json` file to the `Themes` folder.
 4. Open the editor preferences window under `Edit > Editor Preferences`.
