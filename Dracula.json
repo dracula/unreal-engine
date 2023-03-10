@@ -14,7 +14,7 @@
 		"EStyleColor::Recessed": "(R=0.009721,G=0.010330,B=0.015209,A=1.000000)",
 		"EStyleColor::Panel": "(R=0.015209,G=0.015996,B=0.025187,A=1.000000)",
 		"EStyleColor::Header": "(R=0.009721,G=0.010330,B=0.015209,A=1.000000)",
-		"EStyleColor::Dropdown": "(R=0.021219,G=0.023153,B=0.036889,A=1.000000)",
+		"EStyleColor::Dropdown": "(R=0.057805,G=0.063010,B=0.102242,A=1.000000)",
 		"EStyleColor::DropdownOutline": "(R=0.009721,G=0.010330,B=0.015209,A=1.000000)",
 		"EStyleColor::Hover": "(R=0.034340,G=0.038204,B=0.061246,A=1.000000)",
 		"EStyleColor::Hover2": "(R=0.054480,G=0.057805,B=0.080220,A=1.000000)",
